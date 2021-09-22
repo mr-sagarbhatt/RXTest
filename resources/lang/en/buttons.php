@@ -16,4 +16,5 @@ return [
     'create-company' => 'Create Company',
     'create-employee' => 'Create Employee',
     'send-password-reset-link' => 'Send Password Reset Link',
+    'forgot-password' => 'Forgot Your Password?',
 ];
